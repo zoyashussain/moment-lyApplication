@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C10AEDA526A7FE8C0077E553 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C10AEDA426A7FE8C0077E553 /* Info.plist */; };
 		C197B37B26A74FBD004F517C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C197B37A26A74FBD004F517C /* AppDelegate.swift */; };
 		C197B37D26A74FBD004F517C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C197B37C26A74FBD004F517C /* SceneDelegate.swift */; };
 		C197B37F26A74FBD004F517C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C197B37E26A74FBD004F517C /* ViewController.swift */; };
@@ -130,7 +129,6 @@
 			files = (
 				C197B38A26A74FBF004F517C /* LaunchScreen.storyboard in Resources */,
 				C197B38726A74FBF004F517C /* Assets.xcassets in Resources */,
-				C10AEDA526A7FE8C0077E553 /* Info.plist in Resources */,
 				C197B38226A74FBD004F517C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
